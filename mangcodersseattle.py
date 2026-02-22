@@ -1,0 +1,11 @@
+import streamlit as st
+st.title("Seattle Fish")
+st.write("Here are some native fish that live mainly in Seattle and how you can help their habitats.")
+st.image ("https://wdfw.wa.gov/sites/default/files/styles/page_body_full_width_4x3_no_crop/public/2021-09/chum_salmon_spawning_usfws_pacific_region_creative_commons_30918590868_6d211f0887_b.jpg?itok=7opficW1", width=115, caption="A Chum Salmon")
+st.write("Chum Salmon are a species of salmon that are native to the Pacific Northwest and mainly live in Seattle. They are an important part of the ecosystem and play a crucial role in the food chain. To help protect their habitats, you can support conservation efforts and participate in community service and work on restoring their spawning habitats.")
+st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMUBuog8BQczZgvHKmaeMqk9b4O3BqsiNdA&s", width=115, caption="A Bull Trout")
+st.write("Bull Trout are a species of freshwater fish that are native to the Pacific Northwest and mainly live in Seattle. You can help protect this species by working on increasing their acess to suitable spawning habitat and supporting conservation efforts.")
+st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMzCByx6-xWSpxnul7OgTRgzzlit_dI6fjg&s", width=115, caption="A Cutthroat Trout")
+st.write("Cutthroat Trout are a species of freshwater fish that are native to the Pacific Northwest and mainly live in Seattle. These fish like more vegitation on the riverbanks that they live in so you can help by planting (native) plants in the creeks where they live.")
+st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpPOfvsuowV5HigcREaooDb6wMy1wR4bgPA&s", width=115, caption="A Pink Salmon")
+st.write("Pink Salmon are a species of salmon that are native to the Pacific Northwest and mainly live in Seattle. To help protect their habitats, you can help by increasing their access to spawning habitats.")
