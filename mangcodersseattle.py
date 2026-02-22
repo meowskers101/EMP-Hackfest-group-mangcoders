@@ -9,3 +9,4 @@ st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMzCByx6-xWSpxn
 st.write("Cutthroat Trout are a species of freshwater fish that are native to the Pacific Northwest and mainly live in Seattle. These fish like more vegitation on the riverbanks that they live in so you can help by planting (native) plants in the creeks where they live.")
 st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpPOfvsuowV5HigcREaooDb6wMy1wR4bgPA&s", width=615, caption="A Pink Salmon")
 st.write("Pink Salmon are a species of salmon that are native to the Pacific Northwest and mainly live in Seattle. To help protect their habitats, you can help by increasing their access to spawning habitats.")
+st.page_link("habitat_button.py", label="Go back home", icon="🏠")
