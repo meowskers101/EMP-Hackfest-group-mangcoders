@@ -6,5 +6,5 @@ st.image(
     width=615,
     caption="Mountain Whitefish"
 )
-st.write("Mountain Whitefish are crucial to river ecosystems as a primary food source for birds of prey like eagles and ospreys. They also are indicators of high water quality and, as fish that feed on the bottom of the stream, play a vital role in nutrient cycling, which helps improve stream quality. To help protect their habitats, you can protect their cold-water habitats, practice sustainable fishing, and support conservation that removes invasive species.")
-st.sidebar.link_button("HI","a")
+st.write("The mountain whitefish is a unique species of fish that mainly resides in the rivers in Auburn. It plays a very important role in the ecosystem and serves as a critical nutrient transporter and also as a prey buffer for trout. A way you can help this species is supporting deep-water stream conservation efforts and making sure they have lots of woody debris for protection.")
+st.page_link("habitat_button.py", label="Go back home", icon="🏠")
