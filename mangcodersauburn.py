@@ -6,4 +6,4 @@ st.image(
     width=615,
     caption="Mountain Whitefish"
 )
-st.page_link("habitat_button.py", label="Go back home", icon="🏠")
+
